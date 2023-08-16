@@ -1,0 +1,1 @@
+# glassmorphism_navThis is an example of the Glassmorphism effect on a navbar, one more idea of how we can make our projects look more aesthetically pleasing with a little more detail! I hope my project is useful to everyone :-)
